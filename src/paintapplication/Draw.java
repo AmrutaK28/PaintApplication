@@ -37,8 +37,8 @@ public class Draw {
     JButton GREENbutton, REDbutton, BLUEbutton, BLACKbutton, ORANGEbutton, YELLOWbutton, PINKbutton, 
                         MAGENTAbutton,CYANbutton, GRAYbutton, lightGraybutton, 
 			colorPicker, rectangle, pencil;
-    private Icon rect = new ImageIcon("D:\\new\\SwingPaint\\src\\bin\\rect.png");
-    private Icon pencilIcon = new ImageIcon("D:\\new\\SwingPaint\\src\\bin\\pencil.png");
+    private Icon rect = new ImageIcon("src\\images\\rect.png");
+    private Icon pencilIcon = new ImageIcon("src\\images\\pencil.png");
     Canvas canvas;
     private JLabel filenameBar, thicknessStat;
     private JSlider thicknessSlider;
